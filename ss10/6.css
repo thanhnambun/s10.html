@@ -1,0 +1,17 @@
+.input {
+    height: 24px;
+    width: 140px;
+    padding: 0 16px;
+    background-color: #1d12e9;
+    outline: none;
+    border-radius: 4px;
+  }
+.ou{
+    height: 24px;
+    width: 140px;
+    padding: 0 16px;
+    border: 1px solid wheat;
+    outline: none;
+    border-radius: 4px;
+}
+
